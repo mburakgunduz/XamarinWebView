@@ -1,0 +1,12 @@
+E:\vs\espazar\espazar\espazar\bin\Debug\netstandard2.0\espazar.deps.json
+E:\vs\espazar\espazar\espazar\bin\Debug\netstandard2.0\espazar.dll
+E:\vs\espazar\espazar\espazar\bin\Debug\netstandard2.0\espazar.pdb
+E:\vs\espazar\espazar\espazar\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\vs\espazar\espazar\espazar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\vs\espazar\espazar\espazar\obj\Debug\netstandard2.0\espazar.csproj.CoreCompileInputs.cache
+E:\vs\espazar\espazar\espazar\obj\Debug\netstandard2.0\espazar.AssemblyInfoInputs.cache
+E:\vs\espazar\espazar\espazar\obj\Debug\netstandard2.0\espazar.AssemblyInfo.cs
+E:\vs\espazar\espazar\espazar\obj\Debug\netstandard2.0\XamlC.stamp
+E:\vs\espazar\espazar\espazar\obj\Debug\netstandard2.0\espazar.dll
+E:\vs\espazar\espazar\espazar\obj\Debug\netstandard2.0\espazar.pdb
+E:\vs\espazar\espazar\espazar\obj\Debug\netstandard2.0\espazar.csprojAssemblyReference.cache

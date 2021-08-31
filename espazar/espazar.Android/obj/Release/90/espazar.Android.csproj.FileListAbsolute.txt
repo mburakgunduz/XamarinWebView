@@ -1,0 +1,3 @@
+E:\vs\espazar\espazar\espazar.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\vs\espazar\espazar\espazar.Android\obj\Release\90\build.props
+E:\vs\espazar\espazar\espazar.Android\obj\Release\90\adb.props

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IzZ9OqvBbD1og38YRwzkAh7QbMhEnY32uiNzbbAh6yifM2+wAKjqjL1K/x2Zf+uQmKmTbD/2oC4HYJDjpo1tjQ==",
+  "success": true,
+  "projectFilePath": "E:\\vs\\espazar\\espazar\\espazar.iOS\\espazar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ProjeY\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
